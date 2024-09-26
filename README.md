@@ -4,9 +4,9 @@
 
 ![Example screen](./cl_preview.png)
 
-- AR_CONTROLLER_LAYOUT - is a plain.svg formated file
+- AR_CONTROLLER_LAYOUT_PLAIN_NOSHADE - is a plain.svg formated file. No shading layers
 
-- AR_CONTROLLER_LAYOUT_Inkscape
+- AR_CONTROLLER_LAYOUT_Inkscape - Source vector art file for inkscape 1.3
 
 ------------------------------------------------------
 
