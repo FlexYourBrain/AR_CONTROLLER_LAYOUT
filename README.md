@@ -1,6 +1,6 @@
-# ARTWORK - Controller layout
+# Controller layout - vector art asset
 
-**Game art - controller layout comes in svg format for exporting at choosen size, also for any editing that may be wanted.**
+**Game art asset - controller layout comes in svg format for exporting at choosen size, also for any editing that may be wanted.**
 
 ![Example screen](./cl_preview.png)
 
